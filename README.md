@@ -1,6 +1,11 @@
 # jestjs-tests
 
-## Windows
+My simple [jestjs](https://jestjs.io/) tests for [node.js](https://nodejs.org/)
+
+There's nothing interesting here
+
+## Installation and testing
+### Windows
 
 Clone git repo
 ```

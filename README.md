@@ -18,3 +18,4 @@ Start all tests
 ```
 npm test
 ```
+done.
